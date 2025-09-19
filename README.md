@@ -35,6 +35,19 @@ This project analyzes the Northwind sample database to uncover customer behavior
 4. Integrate monthly forecasting into inventory and procurement planning.
 5. Obtain actual cost data and re-run profitability analysis before making pricing or sourcing decisions.
 
+## How to reproduce
+1. Clone this repository  
+   git clone <your-repo-link>
+   cd <repo-folder>
+2. Create and activate a conda environment
+   conda create -n trade_env python=3.11 -y
+   conda activate trade_env
+3. Install dependencies
+   pip install -r requirements.txt
+4. Launch Jupyter Notebook and open the analysis notebook
+   jupyter notebook
+5. Then run the cells in order.
+
 ## Deliverables
 - Notebooks: `notebooks/01_exploration.ipynb`, `notebooks/02_forecasting.ipynb`, `notebooks/03_supplier.ipynb`
 - Data: `data/raw/` and `data/clean/`
