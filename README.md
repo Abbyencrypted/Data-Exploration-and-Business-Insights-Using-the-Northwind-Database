@@ -39,16 +39,13 @@ This project analyzes the Northwind sample database to uncover customer behavior
 1. Clone this repository  
    '''bash
    git clone <your-repo-link>
-   cd <repo-folder>
+   cd <repo-folder>'''
 3. Create and activate a conda environment
-   '''bash
    conda create -n trade_env python=3.11 -y
    conda activate trade_env
-4. Install dependencies
-   '''bash
+5. Install dependencies
    pip install -r requirements.txt
-5. Launch Jupyter Notebook and open the analysis notebook
-   '''bash
+6. Launch Jupyter Notebook and open the analysis notebook
    jupyter notebook
    Then run the cells in order.
 
