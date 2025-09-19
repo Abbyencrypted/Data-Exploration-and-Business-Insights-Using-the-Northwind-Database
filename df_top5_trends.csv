@@ -1,0 +1,61 @@
+CustomerID,CompanyName,Year,TotalSales
+ANATR,Ana Trujillo Emparedados y helados,2012,115781.55
+ANATR,Ana Trujillo Emparedados y helados,2013,409546.98
+ANATR,Ana Trujillo Emparedados y helados,2014,428782.23
+ANATR,Ana Trujillo Emparedados y helados,2015,659748.79
+ANATR,Ana Trujillo Emparedados y helados,2016,587699.64
+ANATR,Ana Trujillo Emparedados y helados,2017,522883.87
+ANATR,Ana Trujillo Emparedados y helados,2018,500864.15
+ANATR,Ana Trujillo Emparedados y helados,2019,612442.21
+ANATR,Ana Trujillo Emparedados y helados,2020,636050.67
+ANATR,Ana Trujillo Emparedados y helados,2021,359801.9
+ANATR,Ana Trujillo Emparedados y helados,2022,418197.93
+ANATR,Ana Trujillo Emparedados y helados,2023,282556.73
+BSBEV,B's Beverages,2012,240635.17
+BSBEV,B's Beverages,2013,515703.34
+BSBEV,B's Beverages,2014,335838.15
+BSBEV,B's Beverages,2015,552320.7
+BSBEV,B's Beverages,2016,552622.06
+BSBEV,B's Beverages,2017,578662.53
+BSBEV,B's Beverages,2018,627329.85
+BSBEV,B's Beverages,2019,516408.61
+BSBEV,B's Beverages,2020,464866.76
+BSBEV,B's Beverages,2021,736154.75
+BSBEV,B's Beverages,2022,701757.85
+BSBEV,B's Beverages,2023,331815.57
+GOURL,Gourmet Lanchonetes,2012,293276.59
+GOURL,Gourmet Lanchonetes,2013,298877.42
+GOURL,Gourmet Lanchonetes,2014,405566.38
+GOURL,Gourmet Lanchonetes,2015,593071.88
+GOURL,Gourmet Lanchonetes,2016,529490.27
+GOURL,Gourmet Lanchonetes,2017,243478.54
+GOURL,Gourmet Lanchonetes,2018,621737.02
+GOURL,Gourmet Lanchonetes,2019,554305.65
+GOURL,Gourmet Lanchonetes,2020,241171.26
+GOURL,Gourmet Lanchonetes,2021,642460.5
+GOURL,Gourmet Lanchonetes,2022,509467.44
+GOURL,Gourmet Lanchonetes,2023,619406.86
+HUNGC,Hungry Coyote Import Store,2012,182360.18
+HUNGC,Hungry Coyote Import Store,2013,540094.75
+HUNGC,Hungry Coyote Import Store,2014,554865.17
+HUNGC,Hungry Coyote Import Store,2015,599598.82
+HUNGC,Hungry Coyote Import Store,2016,444502.76
+HUNGC,Hungry Coyote Import Store,2017,359541.42
+HUNGC,Hungry Coyote Import Store,2018,526269.28
+HUNGC,Hungry Coyote Import Store,2019,263055.35
+HUNGC,Hungry Coyote Import Store,2020,463791.08
+HUNGC,Hungry Coyote Import Store,2021,759201.55
+HUNGC,Hungry Coyote Import Store,2022,431890.95
+HUNGC,Hungry Coyote Import Store,2023,572852.36
+RANCH,Rancho grande,2012,319807.32
+RANCH,Rancho grande,2013,483389.0
+RANCH,Rancho grande,2014,515487.44
+RANCH,Rancho grande,2015,586042.47
+RANCH,Rancho grande,2016,522692.75
+RANCH,Rancho grande,2017,418890.99
+RANCH,Rancho grande,2018,450154.44
+RANCH,Rancho grande,2019,397688.33
+RANCH,Rancho grande,2020,512381.7
+RANCH,Rancho grande,2021,456808.91
+RANCH,Rancho grande,2022,583046.51
+RANCH,Rancho grande,2023,312720.22
